@@ -2,7 +2,7 @@
 We're looking forward to hacking with you on Reason in a few days! This document should get this set up and provide some guide on what we'll cover this Friday.
 
 ## **Must do before the workshop**
-1. Join the #events channel in [Discord](https://discordapp.com/invite/reasonml) and ping @sgrove when you're there so he can check you off the list
+1. Join the #events-and-meetups channel in [Discord](https://discordapp.com/invite/reasonml) and ping @sgrove when you're there so he can check you off the list
 1. Set up [Visual Studio Code (vscode)](https://code.visualstudio.com/download) with the excellent [ReasonML extension](https://github.com/reasonml-editor/vscode-reasonml#installation).
 1. Git clone the hello-reactive reason project and confirm that vscode is working properly and you can recreate the screenshot below
 1. Fill out the [pre-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSewNF0VAcHNo7S-FWkmR7UgVPy0coBsD-Q99OjAyd7Cj8QFmg/viewform)
