@@ -35,6 +35,8 @@ We want to make sure that your editor and the Reason extension are both working 
     npm run webpack # In another tab, since npm start is still running
     code src/simple/page.re # In *another* tab, open vscode from the hello-reactive dir
     
+![VSCode with working ReasonML extension by Darin Morrison](/working_vs_code.png)
+
 Now when you hover over `make` on line 17, everything should look like the editor screenshot below
 
 ## Community links
