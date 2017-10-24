@@ -1,8 +1,8 @@
 # ReactiveConf 2017 ReasonML Workshop
-I'm looking forward to hacking with you on Reason in a few days! This document should get this set up and provide some guide on what we'll cover this Friday.
+We're looking forward to hacking with you on Reason in a few days! This document should get this set up and provide some guide on what we'll cover this Friday.
 
 ## **Must do before the workshop**
-1. Join the #events channel in [Discord](https://discordapp.com/invite/reasonml) and ping @sgrove when you're there so I can check you off the list
+1. Join the #events channel in [Discord](https://discordapp.com/invite/reasonml) and ping @sgrove when you're there so he can check you off the list
 1. Set up [Visual Studio Code (vscode)](https://code.visualstudio.com/download) with the excellent [ReasonML extension](https://github.com/reasonml-editor/vscode-reasonml#installation).
 1. Git clone the hello-reactive reason project and confirm that vscode is working properly and you can recreate the screenshot below
 1. Fill out the [pre-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSewNF0VAcHNo7S-FWkmR7UgVPy0coBsD-Q99OjAyd7Cj8QFmg/viewform)
@@ -19,7 +19,7 @@ By the end of the workshop, we want you to be able to:
 In short, we want you to know enough to start building real things for existing projects, and to know how to get around any roadblocks that come up.
 
 ### Caveats
-This is a four-hour workshop with forty people each, a handful of volunteers helping out, and a lot of material to cover. I know this is a busy time, but we *need* everyone to stay on top of their game and help us out. To that end, we have 5 *must do* pieces of homework before the workshop - and the sooner the better.
+This is a four-hour workshop with forty people each, a handful of volunteers helping out, and a lot of material to cover. We know this is a busy time, but we *need* everyone to stay on top of their game and help us out. To that end, we have 5 *must do* pieces of homework before the workshop - and the sooner the better.
 
 ## Editor setup
 Everyone should install [Visual Studio Code (vscode)](https://code.visualstudio.com/download) so we have a uniform experience. Once that's set up, please install the fantastic [ReasonML package](https://github.com/reasonml-editor/vscode-reasonml#installation). Ask in the discord (#editorsupport) and let us know that you're prepping for the workshop if you have *any* problems at all.
