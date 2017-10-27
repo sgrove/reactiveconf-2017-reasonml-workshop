@@ -3,6 +3,8 @@ import { connect } from 'react-redux';
 import { getItem } from './actions/comment';
 import Comment from './components/Comment';
 
+import CommentRe from './components/commentRe';
+
 class Story extends Component {
   componentWillMount() {
     const id = this.props.match.params.id;
@@ -43,7 +45,9 @@ class Story extends Component {
       return (
         <div>
           {data.comments.map((ele, key) =>
-            <Comment data={ele} key={key} />)}
+          //<Comment data={ele} key={key} />
+          <CommentRe />
+            )}
         </div>
       );
     }
