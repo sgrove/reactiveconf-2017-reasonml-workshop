@@ -1,0 +1,13 @@
+{
+  "name": "hackerNews-pwa",
+  "sources": [
+    "src",
+    "src/components"
+  ],
+  "bs-dependencies": [
+    "reason-react"
+  ],
+  "reason": {
+    "react-jsx": 2
+  }
+}
